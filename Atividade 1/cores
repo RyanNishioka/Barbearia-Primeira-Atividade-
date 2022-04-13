@@ -1,0 +1,70 @@
+abcdef....
+
+binário 01
+
+numérico 0123456789
+
+hexadecimal 0123456789ABCDEF
+
+RGB = RED GREEN BLUE
+
+#      
+
+0 - ausência 
+
+F - Máximo 
+
+#0000000
+
+#FFFFFF
+
+#FF0000
+
+
+red
+blue
+yellow
+
+RGB 0,1,2,3,4,5 ....255
+
+0 = Ausência 
+
+255 = Máximo
+
+RGB(255, 255, 255)
+
+RGB(0,0,255)
+
+width = largura
+
+height = altura
+
+border 
+
+padding = espaçamento interno 
+
+margin = espaçamento externo
+
+:hover :active :visited :required
+
+width: calc(40% - (26px * 4))
+
+.titulo-principal:first-letter {
+}
+
+.titulo-principal:before {
+}
+
+.titulo-principal:after {
+}
+
+p:first-line {
+	font-style: italic;
+}
+
+color: rgba(0,0,0,1);
+
+box-shadow: 10px 10px 5px 1px #000000, -10px -10px yellow,  -20px 20px rgba(255,0,0,0.5);
+}
+
+text-shadow: 2px 2px red;
